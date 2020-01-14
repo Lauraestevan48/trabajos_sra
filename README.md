@@ -9,3 +9,4 @@
 * [gridareas](https://lauraestevan48.github.io/gridareas/)
 * [starup](https://lauraestevan48.github.io/Starup/)
 * [fielwork](https://lauraestevan48.github.io/fielwork/)
+* [imagen-trozos-colores](https://lauraestevan48.github.io/imagen-trozos-colores/)
